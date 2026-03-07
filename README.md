@@ -32,6 +32,10 @@ This project performs Exploratory Data Analysis (EDA) on an International T20 Cr
 
 ## How to Run
 
-1. Ensure the `International_T20_Data.csv` file is in the same directory as the notebook.
-2. Open the `.ipynb` notebook in Google Colab or Jupyter.
-3. Run the cells sequentially to output the analysis, charts, and scorecard data frames.
+Download both the .ipynb notebook and the International_T20_Data.csv.zip file.
+
+Open the notebook in Google Colab or Jupyter.
+
+Important: Upload the .zip file to your environment.
+
+Run the cells sequentially. The code is designed to automatically detect and extract the CSV from the ZIP folder before processing.
