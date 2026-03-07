@@ -29,15 +29,9 @@ This project performs Exploratory Data Analysis (EDA) on an International T20 Cr
 * `numpy`
 * `matplotlib`
 * `seaborn`
-* `ast`
 
 ## How to Run
 
 1. Ensure the `International_T20_Data.csv` file is in the same directory as the notebook.
 2. Open the `.ipynb` notebook in Google Colab or Jupyter.
 3. Run the cells sequentially to output the analysis, charts, and scorecard data frames.
-
----
-
-
-Would you like me to review the final GitHub link to make sure everything looks perfect before you email it to your professor? 
